@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import IndexPage from './IndexPage';
+import Demo from './demo';
 
 ReactDOM.render(
-<IndexPage />,
+<Demo />,
   document.getElementById('root')
 );
